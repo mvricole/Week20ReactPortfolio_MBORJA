@@ -71,7 +71,9 @@ There are still some features I would like to incorporate and will include in fu
 
 ![image](https://user-images.githubusercontent.com/108310424/208550266-37340485-4dbc-42cf-9aa8-b264653304a0.png)
 
+## Video Demo Of Portfolio In Current State - December 2022
 
+[Untitled_ Dec 19 2022 4_10 PM.webm](https://user-images.githubusercontent.com/108310424/208552013-be328860-ce95-45fc-bafd-81586c319219.webm)
 
 ## Author
 
