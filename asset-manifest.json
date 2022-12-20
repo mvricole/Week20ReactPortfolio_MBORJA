@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Week20ReactPortfolio_MBORJA/static/js/main.e63d34af.chunk.js",
+    "main.js.map": "/Week20ReactPortfolio_MBORJA/static/js/main.e63d34af.chunk.js.map",
+    "runtime-main.js": "/Week20ReactPortfolio_MBORJA/static/js/runtime-main.bb7a005e.js",
+    "runtime-main.js.map": "/Week20ReactPortfolio_MBORJA/static/js/runtime-main.bb7a005e.js.map",
+    "static/js/2.ad6f840a.chunk.js": "/Week20ReactPortfolio_MBORJA/static/js/2.ad6f840a.chunk.js",
+    "static/js/2.ad6f840a.chunk.js.map": "/Week20ReactPortfolio_MBORJA/static/js/2.ad6f840a.chunk.js.map",
+    "index.html": "/Week20ReactPortfolio_MBORJA/index.html",
+    "static/js/2.ad6f840a.chunk.js.LICENSE.txt": "/Week20ReactPortfolio_MBORJA/static/js/2.ad6f840a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7a005e.js",
+    "static/js/2.ad6f840a.chunk.js",
+    "static/js/main.e63d34af.chunk.js"
+  ]
+}
